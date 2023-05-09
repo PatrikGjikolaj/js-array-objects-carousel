@@ -1,0 +1,19 @@
+/* img {
+    width: 100%;
+    aspect-ratio: 1;
+} */
+.scheda {
+    color: red;
+}
+.titolo {
+    /* position: absolute; */
+    z-index: 100;
+}
+.descrizione {
+    /* position: absolute; */
+    z-index: 100;
+
+}
+#imgVista {
+    width: 100%;
+}
